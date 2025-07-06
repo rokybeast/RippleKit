@@ -1,6 +1,6 @@
 // RippleKit's Config, use this, to make custom SCSS -> CSS.
 
-module.exports = {
+export default {
     palette: {
         blue: "#0d6efd",
         gray: "#6c757d",

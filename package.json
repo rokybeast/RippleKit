@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Ripple your website, with awesomeness!",
     "main": "src/js/ripplekit.js",
+    "type": "module",
     "directories": {
         "test": "test"
     },
@@ -12,6 +13,9 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rokybeast/RippleKit.git"
+    },
+    "bin": {
+        "ripple": "./src/cli/index.js"
     },
     "keywords": [
         "ripplekit",
@@ -30,6 +34,7 @@
     "dependencies": {
         "chalk": "^4.1.2",
         "chokidar": "^4.0.3",
+        "figlet": "^1.8.1",
         "tinycolor2": "^1.6.0"
     }
 }

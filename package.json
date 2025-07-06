@@ -28,7 +28,8 @@
     },
     "homepage": "https://github.com/rokybeast/RippleKit#readme",
     "dependencies": {
-        "chalk": "^4.1.2"
+        "chalk": "^4.1.2",
+        "chokidar": "^4.0.3",
+        "tinycolor2": "^1.6.0"
     }
 }
-

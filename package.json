@@ -1,0 +1,34 @@
+{
+    "name": "ripplekit",
+    "version": "1.0.0",
+    "description": "Ripple your website, with awesomeness!",
+    "main": "src/js/ripplekit.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo 'Nun Provided. Never dare to run again.' && exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rokybeast/RippleKit.git"
+    },
+    "keywords": [
+        "ripplekit",
+        "css",
+        "framework",
+        "heavy",
+        "customizable",
+        "peak"
+    ],
+    "author": "RokyBeast",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rokybeast/RippleKit/issues"
+    },
+    "homepage": "https://github.com/rokybeast/RippleKit#readme",
+    "dependencies": {
+        "chalk": "^4.1.2"
+    }
+}
+
